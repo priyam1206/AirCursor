@@ -98,9 +98,4 @@ MIT License (add your license details here if desired)
 
 **Enjoy hands-free mouse control with AirCursor!**
 
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/51063976/6912ae90-c96a-496f-ad55-ccdc05646a21/Calibration.py
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/51063976/89592a81-72ad-4ce4-919e-49717017f1eb/AirCursor.py
 
----
-Answer from Perplexity: pplx.ai/share
