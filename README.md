@@ -89,11 +89,6 @@ python AirCursor.py
 
 ---
 
-## License
-
-MIT License (add your license details here if desired)
-
----
 
 **Enjoy hands-free mouse control with AirCursor!**
 
