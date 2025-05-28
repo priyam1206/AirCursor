@@ -1,5 +1,4 @@
 # AirCursor
-# AirCursor
 
 AirCursor is a Python-based hands-free mouse control system that uses your webcam and simple hand gestures. It allows you to move the mouse pointer and perform clicks by pinching your thumb and index finger, making use of computer vision and dynamic calibration for accurate and smooth control.
 
